@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Lexie Zhang</h1>
 <h3 align="center">A passionate Full Stack Developer & 2B student @Software Engineering UWaterloo</h3>
 
-- 🔭 I’m currently working on [GrowGlowth Journals](https://github.com/AoyingZhang/GlowGrowth/tree/main)
+- 🔭 I’m currently working on: [GrowGlowth Journals](https://github.com/AoyingZhang/GlowGrowth/tree/main)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning: **MERN Stack**
 
-- 👨‍💻 My portfolio is available at [https://lexiezhang.netlify.app/](https://lexiezhang.netlify.app/)
+- 👨‍💻 My portfolio is available at: [https://lexiezhang.netlify.app/](https://lexiezhang.netlify.app/)
 
-- 💬 Ask me about **C#, .NET, RestAPI**
+- 💬 Ask me about: **C#, .NET, RestAPI**
 
-- 📫 How to reach me **aoying.zhang@uwaterloo.ca**
+- 📫 How to reach me: **aoying.zhang@uwaterloo.ca**
 
-- 📄 Know about my experiences [https://github.com/AoyingZhang/LexieFullStackResume/blob/main/Lexie_SWE_Resume_external.pdf](https://github.com/AoyingZhang/LexieFullStackResume/blob/main/Lexie_SWE_Resume_external.pdf)
+- 📄 Know about my experiences: [https://github.com/AoyingZhang/LexieFullStackResume/blob/main/Lexie_SWE_Resume_external.pdf](https://github.com/AoyingZhang/LexieFullStackResume/blob/main/Lexie_SWE_Resume_external.pdf)
 
-- ⚡ Fun fact **I enjoy french musicals ;)**
+- ⚡ Fun fact: **I enjoy french musicals ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
