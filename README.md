@@ -11,8 +11,6 @@
 
 - 📫 How to reach me: **aoying.zhang@uwaterloo.ca**
 
-- 📄 Know about my experiences: [https://github.com/AoyingZhang/LexieFullStackResume/blob/main/Lexie_SWE_Resume_external.pdf](https://github.com/AoyingZhang/LexieFullStackResume/blob/main/Lexie_SWE_Resume_external.pdf)
-
 - ⚡ Fun fact: **I enjoy french musicals ;)**
 
 <h3 align="left">Connect with me:</h3>
