@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [Gomoku Game](https://github.com/vrnprkh/Gomoku)
 
-- 🌱 I’m currently learning: **MERN Stack**
+- 🌱 I’m currently learning: **Rust**
 
 - 👨‍💻 My portfolio is available at: [https://lexiezhang.netlify.app/](https://lexiezhang.netlify.app/)
 
