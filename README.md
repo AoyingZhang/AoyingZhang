@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lexie Zhang</h1>
-<h3 align="center">A passionate Full Stack Developer & 2B student @Software Engineering UWaterloo</h3>
+<h3 align="center">A passionate Full Stack Developer & 3A student @Software Engineering UWaterloo</h3>
 
 - 🔭 I’m currently working on: [Gomoku Game](https://github.com/vrnprkh/Gomoku)
 
